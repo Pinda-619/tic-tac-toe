@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Git workflow
 
-After completing any meaningful unit of work, commit the changes and push to GitHub immediately. Use clear, descriptive commit messages (e.g. `Add AI opponent with minimax algorithm`, not `update stuff`). Never leave significant work uncommitted — push frequently so progress is never lost.
+After completing any meaningful unit of work, commit the changes AND push to GitHub immediately. Use clear, descriptive commit messages (e.g. `Add AI opponent with minimax algorithm`, not `update stuff`). Never leave significant work uncommitted — push frequently so progress is never lost.
 
 ## Internship search
 
