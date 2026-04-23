@@ -13,6 +13,7 @@ After completing any meaningful unit of work, commit the changes and push to Git
 - Dutch national, native Dutch speaker
 - Location: Rotterdam region, Netherlands — open to anywhere within ~1.5 hours (covers most of the Netherlands incl. Amsterdam)
 - Interests/target industries: aviation, sports, automotive, food, finance
+- Special interest in EVs — grew up around it through father's work; highlight this in automotive applications
 - All internship-related files go in the `Intership/` folder
 - Save any new internship info (companies applied to, documents created, etc.) back into this file and commit
 
