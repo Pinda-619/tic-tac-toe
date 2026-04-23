@@ -10,6 +10,9 @@ After completing any meaningful unit of work, commit the changes and push to Git
 
 - User is a 2nd year International Business student with a focus on Supply Chain Management
 - Looking for an internship starting August or September 2026
+- Dutch national, native Dutch speaker
+- Location: Rotterdam region, Netherlands — open to anywhere within ~1.5 hours (covers most of the Netherlands incl. Amsterdam)
+- Interests/target industries: aviation, sports, automotive, food, finance
 - All internship-related files go in the `Intership/` folder
 - Save any new internship info (companies applied to, documents created, etc.) back into this file and commit
 
